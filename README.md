@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I love making data talk to hear the amazing stories it can tell us, you can call me a data griot
+
 <!--
 **aurelSteve77/aurelSteve77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
