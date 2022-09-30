@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there. I am Aurel! 👋 
 
-I love making data talk to hear the amazing stories it can tell us, you can call me a data griot
+- 📊 I am a Data Scientist with a strong interest in the finance industry and quantitative methods
+- 👨🏾‍💻 I have a double degree in computer science engineering and data science and artificial intelligence
+- 🏄🏾 I am passionate about machine learning, data and the patterns that can be extracted to create value.
+- ✏️ I love to learn, in a wide range of areas, and to pass on my knowledge and experience with others.
+- 😁 And also I love beautiful UI
 
 <!--
 **aurelSteve77/aurelSteve77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
